@@ -1,0 +1,27 @@
+/**
+ * @name i bruh you
+ * @author Request
+ * @version auto updates
+ * @description Тема создана в генераторе https://vsthemes.org/generator/
+ * @source https://vsthemes.org/skins/discord/31561-i-bruh-you.html
+ * @authorLink https://vsthemes.org/user/Request/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 238,64,231;
+    --background: url("https://vsthemes.org/uploads/posts/2021-04/1618577995_anime-devushka-karty-084b68a.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
